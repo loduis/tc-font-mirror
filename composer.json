@@ -1,12 +1,10 @@
 {
-  "name": "font",
-  "description": "Fonts",
-  "type": "fonts",
+  "name": "tecnickcom/tc-font-mirror",
+  "description": "This project contains a copy of the following OpenSource fonts:",
+  "type": "library",
   "keywords": [
     "fonts",
     "tc-lib-pdf",
     "font"
-  ],
-  "require": {},
-  "require-dev": {}
+  ]
 }
